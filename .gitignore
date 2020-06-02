@@ -130,3 +130,5 @@ dmypy.json
 
 # PyCharm Project
 .idea/
+
+notebooks/checkpoints/
